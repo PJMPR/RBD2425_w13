@@ -212,12 +212,4 @@ public class CustomerRepositoryImpl implements CustomerRepository {
 }
 ```
 
----
 
-## 🚀 Co dalej?
-
-* Zaimplementuj analogiczne repozytoria dla pozostałych tabel.
-* Dodaj klasę `main()` do testowania działania metod.
-* Dodaj obsługę wyjątków i logowanie.
-
-Czy chcesz, żebym teraz dodał implementacje dla kolejnych tabel (np. `orders`, `products`) lub klasę testującą działanie repozytorium?
